@@ -4,4 +4,4 @@ This is a tool for Maya that creates fields of grass. Users specifiy location on
 
 To see the tool in action: https://www.youtube.com/watch?v=z19EmGAMuwQ
 
-![alt text](https://github.com/dannygelman1/Grass-Script-Generator/image/image.png)
+![alt text](./image/image.png)
